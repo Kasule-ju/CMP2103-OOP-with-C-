@@ -40,9 +40,9 @@ class EngineeringStudent : public Student{
 
 int main(){
     EngineeringStudent engStudent;
-    engStudent.name = "Abiyo Bruce";
+    engStudent.name = "Kasule Juma";
     engStudent.age = 21;
-    engStudent.setStudentNumber("25/U/0820");
+    engStudent.setStudentNumber("25/U/08579");
     engStudent.setEngineeringCourse("Bsc. Electrical Engineering");
 
     engStudent.displayPerson();
