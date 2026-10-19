@@ -52,7 +52,7 @@ class HighschoolStudent : public Student{
 };
 
 int main(){
-    UniversityStudent Ustd1("Abiyo", 21, "Year 2", "Electrical Engineering", "25/U/0820");
+    UniversityStudent Ustd1("Kasule", 21, "Year 2", "Electrical Engineering", "25/U/08579/PS");
     Ustd1.Studentdisplay();
     Ustd1.Unidisplay();
 
